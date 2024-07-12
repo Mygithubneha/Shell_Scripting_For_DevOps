@@ -1,8 +1,6 @@
-<<<<<<< HEAD
+
 # Shell_Scripting_For_DevOps
-# ShellScripting
-=======
-# ShellScripting
+
 
 # 🐚 Shell Scripting Project
 
@@ -63,4 +61,4 @@ Clone the repository:
 git clone https://github.com/yourusername/shell-scripting-project.git
 cd shell-scripting-project
 
->>>>>>> c4ea93c (Adding the file)
+
